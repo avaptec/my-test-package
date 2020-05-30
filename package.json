@@ -1,0 +1,19 @@
+{
+  "name": "@avaptec/my-test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaptec/my-test-package.git"
+  },
+  "author": "An Thien Bui (anbuithien@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avaptec/my-test-package/issues"
+  },
+  "homepage": "https://github.com/avaptec/my-test-package#readme"
+}
